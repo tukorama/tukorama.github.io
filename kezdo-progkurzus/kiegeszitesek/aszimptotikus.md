@@ -1,3 +1,5 @@
+{% include katex.html %}
+
 # Függvények aszimptotikus viselkedése
 
 Függvények aszimptotikus viselkedését szeretnénk jellemezni a továbbiakban.

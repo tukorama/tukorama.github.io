@@ -1,6 +1,6 @@
 Kurzusok amiket tanítok:
 
-- Kezdő Programozás Kurzus [(Hamarosan)](https://tukorama.github.io/kezdo-progkurzus/index.md)
+- Kezdő Programozás Kurzus [(Hamarosan)](https://tukorama.github.io/kezdo-progkurzus/index)
 - Haladó Programozás Kurzus (Hamarosan)
 
 ---

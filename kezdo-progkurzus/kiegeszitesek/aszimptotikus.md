@@ -3,6 +3,8 @@ title: "Függvények aszimptotikus viselkedése"
 permalink: /kezdo-progkurzus/kiegeszitesek/aszimptotikus
 ---
 
+{% include head.html %}
+
 # Függvények aszimptotikus viselkedése
 
 Függvények aszimptotikus viselkedését szeretnénk jellemezni a továbbiakban.

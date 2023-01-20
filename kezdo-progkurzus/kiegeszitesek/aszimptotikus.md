@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Függvények aszimptotikus viselkedése"
 permalink: /kezdo-progkurzus/kiegeszitesek/aszimptotikus
+---
 
 # Függvények aszimptotikus viselkedése
 
